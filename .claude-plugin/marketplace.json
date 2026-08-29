@@ -1,5 +1,6 @@
 {
   "name": "skills_db",
+  "description": "A shared database of Claude Code skill plugins for the team. First plugin: research-kit (equity research + financial modeling).",
   "owner": {
     "name": "Martin (@m0xt_)"
   },
