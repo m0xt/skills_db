@@ -15,8 +15,8 @@ Skills are copied verbatim from Anthropic's `claude-for-financial-services` plug
 /plugin install research-kit@equity-research-kit
 ```
 
-- From a local clone: `/plugin marketplace add ~/Projects/equity-research-kit`
-- From GitHub once pushed: `/plugin marketplace add <owner>/equity-research-kit`
+- From a local clone: `/plugin marketplace add ~/Projects/research-kit`
+- From GitHub once pushed: `/plugin marketplace add m0xt/research-kit`
 
 After installing, the skills appear as `research-kit:<skill>` and trigger on their descriptions
 (or invoke directly, e.g. `/research-kit:dcf-model`).
