@@ -1,0 +1,14 @@
+{
+  "name": "equity-research-kit",
+  "owner": {
+    "name": "Martin (@m0xt_)"
+  },
+  "plugins": [
+    {
+      "name": "research-kit",
+      "displayName": "Equity Research Kit",
+      "source": "./plugins/research-kit",
+      "description": "13 equity-research + financial-modeling skills to test and curate"
+    }
+  ]
+}
